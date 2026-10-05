@@ -1,6 +1,6 @@
 # The demographic drag AI has to cancel out: data and code
 
-This folder reproduces every chart and number in the essay. Everything uses public data, and every number the text quotes is written to [`numbers.md`](numbers.md) by the code that computes it.
+This repository reproduces every chart and number in the essay [*AI has to replace the workers who were never born*](https://toex.substack.com/p/ai-workers-never-born). Everything uses public data, and every number the text quotes is written to [`numbers.md`](numbers.md) by the code that computes it.
 
 | # | Chart | File |
 |---|---|---|
@@ -79,4 +79,6 @@ Each Indeed sector is mapped by hand to a few representative SOC 2018 occupation
 
 ## License
 
-[Choose before publishing, for example MIT for the code and CC BY 4.0 for the charts.]
+- **Code** (`*.py`, `story.ipynb`): [PolyForm Noncommercial 1.0.0](LICENSE.md). You may use, change and share it for any noncommercial purpose.
+- **Charts and `numbers.md`**: [CC BY-NC 4.0](LICENSE-CHARTS.txt). Credit "Ritabrata Maiti" and link back here.
+- **Data**: the files in `data/` come from the publishers listed above and stay under their own terms; the noncommercial licences above do not apply to them.

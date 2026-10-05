@@ -16,7 +16,7 @@ from matplotlib.lines import Line2D
 
 HERE = Path(__file__).resolve().parent
 FIGURES = HERE / "figures"
-CREDIT = ""  # e.g. "Chart: <publication name>"; printed bottom-right on every chart when set
+CREDIT = "Chart: Ritabrata Maiti"
 
 INK = "#1A1A1A"
 MUTED = "#6B6B6B"
@@ -78,7 +78,8 @@ def new_figure(title, subtitle, source, *, note=None, height=4.8, nrows=1, ncols
         y -= 0.2 * inch
     top = y - top_pad * inch
     foot = [f"Source: {source}"] + ([f"Note: {note}"] if note else [])
-    lines = [line for text in foot for line in textwrap.wrap(text, 138)]
+    # Leave room for the credit at bottom-right when one is set.
+    lines = [line for text in foot for line in textwrap.wrap(text, 112 if CREDIT else 138)]
     yb = 0.1 * inch
     for line in reversed(lines):
         fig.text(TEXT_LEFT, yb, line, fontsize=7.8, va="bottom", ha="left", color=MUTED)
