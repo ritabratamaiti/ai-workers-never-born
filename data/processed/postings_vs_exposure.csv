@@ -1,0 +1,48 @@
+sector,group,occupations,exposure_human,exposure_gpt4,postings,nov22,change_since_chatgpt
+Software Development,office and tech,6,0.608,0.855,76.675,147.091,-47.873
+Data & Analytics,office and tech,8,0.635,0.786,61.22,141.781,-56.821
+IT Systems & Solutions,office and tech,6,0.54,0.632,74.881,137.33,-45.473
+"IT Infrastructure, Operations & Support",office and tech,3,0.573,0.658,69.952,133.057,-47.427
+Accounting,office and tech,3,0.44,0.733,101.454,192.972,-47.425
+Banking & Finance,office and tech,4,0.538,0.524,103.952,147.241,-29.4
+Insurance,office and tech,4,0.508,0.625,125.771,155.529,-19.133
+Marketing,office and tech,3,0.554,0.516,76.338,125.099,-38.978
+Media & Communications,office and tech,6,0.708,0.724,70.829,128.873,-45.04
+Administrative Assistance,office and tech,4,0.598,0.6,95.915,166.065,-42.243
+Customer Service,office and tech,1,0.705,0.568,87.963,125.699,-30.021
+Human Resources,office and tech,3,0.501,0.582,95.534,161.482,-40.839
+Legal,office and tech,2,0.462,0.475,120.786,157.145,-23.137
+Project Management,office and tech,1,0.4,0.55,116.124,158.017,-26.511
+Management,office and tech,1,0.385,0.481,102.556,136.691,-24.972
+Sales,office and tech,2,0.637,0.627,92.335,119.143,-22.501
+Logistic Support,office and tech,4,0.537,0.521,120.139,163.801,-26.656
+Medical Information,office and tech,2,0.585,0.642,87.714,171.65,-48.9
+Scientific Research & Development,office and tech,6,0.469,0.517,81.485,151.864,-46.343
+Social Science,office and tech,3,0.581,0.492,126.116,185.08,-31.859
+Architecture,office and tech,1,0.43,0.488,93.76,153.306,-38.841
+Civil Engineering,office and tech,3,0.455,0.482,154.823,201.102,-23.013
+Electrical Engineering,office and tech,3,0.434,0.601,144.325,175.695,-17.854
+Industrial Engineering,office and tech,4,0.52,0.554,118.987,164.257,-27.56
+Mechanical Engineering,office and tech,3,0.501,0.531,161.74,179.154,-9.72
+Nursing,health and care,7,0.294,0.322,107.122,168.558,-36.448
+Personal Care & Home Health,health and care,2,0.186,0.15,155.104,181.231,-14.417
+Childcare,health and care,2,0.34,0.141,85.799,166.535,-48.48
+Therapy,health and care,5,0.303,0.275,181.859,183.948,-1.136
+Physicians & Surgeons,health and care,5,0.33,0.421,191.621,185.642,3.221
+Pharmacy,health and care,2,0.413,0.428,126.194,174.958,-27.872
+Dental,health and care,3,0.14,0.235,118.315,169.024,-30.001
+Medical Technician,health and care,7,0.167,0.296,121.018,181.676,-33.388
+Community & Social Service,health and care,3,0.359,0.286,104.49,163.061,-35.92
+Education & Instruction,people-facing,3,0.312,0.337,107.411,163.652,-34.366
+Hospitality & Tourism,people-facing,2,0.363,0.364,86.916,130.776,-33.538
+Arts & Entertainment,people-facing,5,0.432,0.476,84.015,126.514,-33.593
+Retail,people-facing,2,0.358,0.276,88.377,131.066,-32.571
+Food Preparation & Service,hands-on,4,0.144,0.118,94.604,134.973,-29.909
+Construction,hands-on,3,0.087,0.114,124.868,172.142,-27.462
+Driving,hands-on,2,0.212,0.322,81.294,128.659,-36.814
+Loading & Stocking,hands-on,3,0.091,0.088,107.594,161.349,-33.316
+Cleaning & Sanitation,hands-on,2,0.043,0.0,101.018,158.316,-36.192
+Installation & Maintenance,hands-on,2,0.109,0.121,114.384,156.852,-27.075
+Security & Public Safety,hands-on,3,0.248,0.29,116.202,156.163,-25.589
+Production & Manufacturing,hands-on,3,0.133,0.296,122.831,181.193,-32.21
+Aviation,hands-on,2,0.143,0.243,116.561,158.192,-26.317

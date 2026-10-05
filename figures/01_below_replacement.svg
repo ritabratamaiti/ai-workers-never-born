@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="524.16pt" height="345.6pt" viewBox="0 0 524.16 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-05T14:38:19.242858</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 345.6 
+L 524.16 345.6 
+L 524.16 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 39.312 285.84 
+L 505.8144 285.84 
+L 505.8144 82.08 
+L 39.312 82.08 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 379.858752 285.84 
+L 505.8144 285.84 
+L 505.8144 82.08 
+L 379.858752 82.08 
+z
+" clip-path="url(#p729c99f57f)" style="fill: #f2f2ef"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m4d956969b8" d="M 0 0 
+L 0 3 
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4d956969b8" x="85.96224" y="285.84" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: middle; fill: #6b6b6b" x="85.96224" y="298.141758" transform="rotate(-0 85.96224 298.141758)">1960</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m4d956969b8" x="179.26272" y="285.84" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: middle; fill: #6b6b6b" x="179.26272" y="298.141758" transform="rotate(-0 179.26272 298.141758)">1980</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m4d956969b8" x="272.5632" y="285.84" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: middle; fill: #6b6b6b" x="272.5632" y="298.141758" transform="rotate(-0 272.5632 298.141758)">2000</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m4d956969b8" x="365.86368" y="285.84" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: middle; fill: #6b6b6b" x="365.86368" y="298.141758" transform="rotate(-0 365.86368 298.141758)">2020</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m4d956969b8" x="459.16416" y="285.84" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: middle; fill: #6b6b6b" x="459.16416" y="298.141758" transform="rotate(-0 459.16416 298.141758)">2040</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <path d="M 39.312 285.84 
+L 505.8144 285.84 
+" clip-path="url(#p729c99f57f)" style="fill: none; stroke: #e4e4e4; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_7"/>
+     <g id="text_6">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="36.312" y="288.990879" transform="rotate(-0 36.312 288.990879)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <path d="M 39.312 234.9 
+L 505.8144 234.9 
+" clip-path="url(#p729c99f57f)" style="fill: none; stroke: #e4e4e4; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_9"/>
+     <g id="text_7">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="36.312" y="238.050879" transform="rotate(-0 36.312 238.050879)">25</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <path d="M 39.312 183.96 
+L 505.8144 183.96 
+" clip-path="url(#p729c99f57f)" style="fill: none; stroke: #e4e4e4; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_8">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="36.312" y="187.110879" transform="rotate(-0 36.312 187.110879)">50</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <path d="M 39.312 133.02 
+L 505.8144 133.02 
+" clip-path="url(#p729c99f57f)" style="fill: none; stroke: #e4e4e4; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_13"/>
+     <g id="text_9">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="36.312" y="136.170879" transform="rotate(-0 36.312 136.170879)">75</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <path d="M 39.312 82.08 
+L 505.8144 82.08 
+" clip-path="url(#p729c99f57f)" style="fill: none; stroke: #e4e4e4; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="36.312" y="85.230879" transform="rotate(-0 36.312 85.230879)">100</text>
+     </g>
+    </g>
+   </g>
+   <g id="FillBetweenPolyCollection_1">
+    <defs>
+     <path id="mdaa9559638" d="M 39.312 -59.76 
+L 39.312 -60.508042 
+L 43.977024 -60.500646 
+L 48.642048 -60.464651 
+L 53.307072 -60.452906 
+L 57.972096 -59.922551 
+L 62.63712 -59.920701 
+L 67.302144 -60.004792 
+L 71.967168 -66.717235 
+L 76.632192 -66.626884 
+L 81.297216 -67.892403 
+L 85.96224 -67.819749 
+L 90.627264 -67.115441 
+L 95.292288 -68.245979 
+L 99.957312 -68.567208 
+L 104.622336 -71.25027 
+L 109.28736 -71.610719 
+L 113.952384 -72.049315 
+L 118.617408 -72.29077 
+L 123.282432 -78.351031 
+L 127.947456 -78.589833 
+L 132.61248 -82.669187 
+L 137.277504 -80.100376 
+L 141.942528 -87.900262 
+L 146.607552 -92.791956 
+L 151.272576 -97.546261 
+L 155.9376 -100.037312 
+L 160.602624 -103.44349 
+L 165.267648 -102.975975 
+L 169.932672 -103.983605 
+L 174.597696 -103.291451 
+L 179.26272 -104.035996 
+L 183.927744 -105.297217 
+L 188.592768 -105.598582 
+L 193.257792 -99.224758 
+L 197.922816 -106.843041 
+L 202.58784 -106.438544 
+L 207.252864 -97.183876 
+L 211.917888 -99.220386 
+L 216.582912 -98.883 
+L 221.247936 -105.961844 
+L 225.91296 -108.002646 
+L 230.577984 -151.790163 
+L 235.243008 -151.612176 
+L 239.908032 -150.888966 
+L 244.573056 -150.507632 
+L 249.23808 -149.821 
+L 253.903104 -150.793356 
+L 258.568128 -150.090653 
+L 263.233152 -152.021689 
+L 267.898176 -154.298979 
+L 272.5632 -153.585689 
+L 277.228224 -152.873526 
+L 281.893248 -158.006675 
+L 286.558272 -157.518227 
+L 291.223296 -156.449317 
+L 295.88832 -155.792827 
+L 300.553344 -155.300521 
+L 305.218368 -154.5542 
+L 309.883392 -153.936532 
+L 314.548416 -154.660172 
+L 319.21344 -156.242861 
+L 323.878464 -155.557379 
+L 328.543488 -152.548077 
+L 333.208512 -152.825168 
+L 337.873536 -152.166009 
+L 342.53856 -150.123616 
+L 347.203584 -155.466782 
+L 351.868608 -157.069997 
+L 356.533632 -157.822072 
+L 361.198656 -159.391884 
+L 365.86368 -198.207593 
+L 370.528704 -197.528278 
+L 375.193728 -197.53571 
+L 379.858752 -196.819933 
+L 379.858752 -59.76 
+L 379.858752 -59.76 
+L 375.193728 -59.76 
+L 370.528704 -59.76 
+L 365.86368 -59.76 
+L 361.198656 -59.76 
+L 356.533632 -59.76 
+L 351.868608 -59.76 
+L 347.203584 -59.76 
+L 342.53856 -59.76 
+L 337.873536 -59.76 
+L 333.208512 -59.76 
+L 328.543488 -59.76 
+L 323.878464 -59.76 
+L 319.21344 -59.76 
+L 314.548416 -59.76 
+L 309.883392 -59.76 
+L 305.218368 -59.76 
+L 300.553344 -59.76 
+L 295.88832 -59.76 
+L 291.223296 -59.76 
+L 286.558272 -59.76 
+L 281.893248 -59.76 
+L 277.228224 -59.76 
+L 272.5632 -59.76 
+L 267.898176 -59.76 
+L 263.233152 -59.76 
+L 258.568128 -59.76 
+L 253.903104 -59.76 
+L 249.23808 -59.76 
+L 244.573056 -59.76 
+L 239.908032 -59.76 
+L 235.243008 -59.76 
+L 230.577984 -59.76 
+L 225.91296 -59.76 
+L 221.247936 -59.76 
+L 216.582912 -59.76 
+L 211.917888 -59.76 
+L 207.252864 -59.76 
+L 202.58784 -59.76 
+L 197.922816 -59.76 
+L 193.257792 -59.76 
+L 188.592768 -59.76 
+L 183.927744 -59.76 
+L 179.26272 -59.76 
+L 174.597696 -59.76 
+L 169.932672 -59.76 
+L 165.267648 -59.76 
+L 160.602624 -59.76 
+L 155.9376 -59.76 
+L 151.272576 -59.76 
+L 146.607552 -59.76 
+L 141.942528 -59.76 
+L 137.277504 -59.76 
+L 132.61248 -59.76 
+L 127.947456 -59.76 
+L 123.282432 -59.76 
+L 118.617408 -59.76 
+L 113.952384 -59.76 
+L 109.28736 -59.76 
+L 104.622336 -59.76 
+L 99.957312 -59.76 
+L 95.292288 -59.76 
+L 90.627264 -59.76 
+L 85.96224 -59.76 
+L 81.297216 -59.76 
+L 76.632192 -59.76 
+L 71.967168 -59.76 
+L 67.302144 -59.76 
+L 62.63712 -59.76 
+L 57.972096 -59.76 
+L 53.307072 -59.76 
+L 48.642048 -59.76 
+L 43.977024 -59.76 
+L 39.312 -59.76 
+z
+"/>
+    </defs>
+    <g clip-path="url(#p729c99f57f)">
+     <use xlink:href="#mdaa9559638" x="0" y="345.6" style="fill: #c0392b; fill-opacity: 0.1"/>
+    </g>
+   </g>
+   <g id="line2d_16">
+    <path d="M 39.312 285.091958 
+L 43.977024 285.099354 
+L 48.642048 285.135349 
+L 53.307072 285.147094 
+L 57.972096 285.677449 
+L 62.63712 285.679299 
+L 67.302144 285.595208 
+L 71.967168 278.882765 
+L 76.632192 278.973116 
+L 81.297216 277.707597 
+L 85.96224 277.780251 
+L 90.627264 278.484559 
+L 95.292288 277.354021 
+L 99.957312 277.032792 
+L 104.622336 274.34973 
+L 109.28736 273.989281 
+L 113.952384 273.550685 
+L 118.617408 273.30923 
+L 123.282432 267.248969 
+L 127.947456 267.010167 
+L 132.61248 262.930813 
+L 137.277504 265.499624 
+L 141.942528 257.699738 
+L 146.607552 252.808044 
+L 151.272576 248.053739 
+L 155.9376 245.562688 
+L 160.602624 242.15651 
+L 165.267648 242.624025 
+L 169.932672 241.616395 
+L 174.597696 242.308549 
+L 179.26272 241.564004 
+L 183.927744 240.302783 
+L 188.592768 240.001418 
+L 193.257792 246.375242 
+L 197.922816 238.756959 
+L 202.58784 239.161456 
+L 207.252864 248.416124 
+L 211.917888 246.379614 
+L 216.582912 246.717 
+L 221.247936 239.638156 
+L 225.91296 237.597354 
+L 230.577984 193.809837 
+L 235.243008 193.987824 
+L 239.908032 194.711034 
+L 244.573056 195.092368 
+L 249.23808 195.779 
+L 253.903104 194.806644 
+L 258.568128 195.509347 
+L 263.233152 193.578311 
+L 267.898176 191.301021 
+L 272.5632 192.014311 
+L 277.228224 192.726474 
+L 281.893248 187.593325 
+L 286.558272 188.081773 
+L 291.223296 189.150683 
+L 295.88832 189.807173 
+L 300.553344 190.299479 
+L 305.218368 191.0458 
+L 309.883392 191.663468 
+L 314.548416 190.939828 
+L 319.21344 189.357139 
+L 323.878464 190.042621 
+L 328.543488 193.051923 
+L 333.208512 192.774832 
+L 337.873536 193.433991 
+L 342.53856 195.476384 
+L 347.203584 190.133218 
+L 351.868608 188.530003 
+L 356.533632 187.777928 
+L 361.198656 186.208116 
+L 365.86368 147.392407 
+L 370.528704 148.071722 
+L 375.193728 148.06429 
+L 379.858752 148.780067 
+" clip-path="url(#p729c99f57f)" style="fill: none; stroke: #c0392b; stroke-width: 2.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 379.858752 148.780067 
+L 384.523776 148.135424 
+L 389.1888 141.658849 
+L 393.853824 138.014667 
+L 398.518848 138.697915 
+L 403.183872 139.385764 
+L 407.848896 139.913415 
+L 412.51392 139.196541 
+L 417.178944 138.263484 
+L 421.843968 138.339089 
+L 426.508992 139.038863 
+L 431.174016 138.829071 
+L 435.83904 139.302416 
+L 440.504064 139.999774 
+L 445.169088 140.545427 
+L 449.834112 141.202886 
+L 454.499136 141.898836 
+L 459.16416 142.575288 
+L 463.829184 143.270486 
+L 468.494208 143.871732 
+L 473.159232 142.850775 
+L 477.824256 143.205723 
+L 482.48928 143.429105 
+L 487.154304 144.111646 
+L 491.819328 143.328526 
+L 496.484352 144.008682 
+L 501.149376 144.586497 
+L 505.8144 145.267866 
+" clip-path="url(#p729c99f57f)" style="fill: none; stroke-dasharray: 3,3.2; stroke-dashoffset: 0; stroke: #c0392b; stroke-width: 2"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 39.312 285.84 
+L 505.8144 285.84 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_11">
+    <text style="font-style: italic; font-size: 8.5px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="383.637421" y="94.14446" transform="rotate(-0 383.637421 94.14446)">UN projection</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 171.379309 176.697305 
+Q 200.019342 184.976266 228.659375 193.255226 
+" style="fill: none; stroke: #6b6b6b; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; fill: #6b6b6b" transform="translate(90.627264 162.821328)">China drops below 2.1</text>
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; fill: #6b6b6b" transform="translate(90.627264 172.235781)">(1991)</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 288.877933 128.906137 
+Q 326.400496 137.916276 363.92306 146.926414 
+" style="fill: none; stroke: #6b6b6b; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; fill: #6b6b6b" transform="translate(207.252864 116.403898)">India drops below 2.1</text>
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; fill: #6b6b6b" transform="translate(207.252864 125.818351)">(2020)</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11.5px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #c0392b" x="375.193728" y="139.610867" transform="rotate(-0 375.193728 139.610867)">67%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.5px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #c0392b" x="505.8144" y="136.098666" transform="rotate(-0 505.8144 136.098666)">69%</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m8cf5428856" d="M 0 2.345208 
+C 0.621956 2.345208 1.218523 2.098102 1.658312 1.658312 
+C 2.098102 1.218523 2.345208 0.621956 2.345208 0 
+C 2.345208 -0.621956 2.098102 -1.218523 1.658312 -1.658312 
+C 1.218523 -2.098102 0.621956 -2.345208 0 -2.345208 
+C -0.621956 -2.345208 -1.218523 -2.098102 -1.658312 -1.658312 
+C -2.098102 -1.218523 -2.345208 -0.621956 -2.345208 0 
+C -2.345208 0.621956 -2.098102 1.218523 -1.658312 1.658312 
+C -1.218523 2.098102 -0.621956 2.345208 0 2.345208 
+z
+" style="stroke: #c0392b"/>
+    </defs>
+    <g clip-path="url(#p729c99f57f)">
+     <use xlink:href="#m8cf5428856" x="230.577984" y="193.809837" style="fill: #c0392b; stroke: #c0392b"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p729c99f57f)">
+     <use xlink:href="#m8cf5428856" x="365.86368" y="147.392407" style="fill: #c0392b; stroke: #c0392b"/>
+    </g>
+   </g>
+  </g>
+  <g id="line2d_18">
+   <path d="M 18.3456 9.36 
+L 505.8144 9.36 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 1.1; stroke-linecap: round"/>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 15px; font-family: 'Franklin Gothic Demi'; text-anchor: start; fill: #1a1a1a" x="18.3456" y="29.22293" transform="rotate(-0 18.3456 29.22293)">Two in three people now live where fertility is below replacement</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 10.3px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #4d4d4d" x="18.3456" y="50.412012" transform="rotate(-0 18.3456 50.412012)">Share of the world's population living in countries with a total fertility rate below 2.1 children</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 10.3px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #4d4d4d" x="18.3456" y="64.812012" transform="rotate(-0 18.3456 64.812012)">per woman, %</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 7.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="18.3456" y="336.918457" transform="rotate(-0 18.3456 336.918457)">Note: Using the net reproduction rate (below 1, which allows for child mortality): 71% in 2023. UN projection for 2100: 87%.</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 7.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="18.3456" y="325.758457" transform="rotate(-0 18.3456 325.758457)">Source: UN World Population Prospects 2024; estimates to 2023, medium-variant projection after</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p729c99f57f">
+   <rect x="39.312" y="82.08" width="466.5024" height="203.76"/>
+  </clipPath>
+ </defs>
+</svg>

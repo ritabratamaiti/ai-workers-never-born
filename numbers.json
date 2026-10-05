@@ -1,0 +1,1286 @@
+{
+  "share_below_replacement_1975": {
+    "value": 19.767035767324113,
+    "display": "20%",
+    "what": "% of world population in countries with TFR below 2.1, 1975",
+    "source": "UN World Population Prospects 2024"
+  },
+  "share_below_replacement_1990": {
+    "value": 23.6762100948441,
+    "display": "24%",
+    "what": "% of world population in countries with TFR below 2.1, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "share_below_replacement_2000": {
+    "value": 46.04715804599684,
+    "display": "46%",
+    "what": "% of world population in countries with TFR below 2.1, 2000",
+    "source": "UN World Population Prospects 2024"
+  },
+  "share_below_replacement_2010": {
+    "value": 47.35122741984578,
+    "display": "47%",
+    "what": "% of world population in countries with TFR below 2.1, 2010",
+    "source": "UN World Population Prospects 2024"
+  },
+  "share_below_replacement_2023": {
+    "value": 67.26537752920864,
+    "display": "67%",
+    "what": "% of world population in countries with TFR below 2.1, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "share_below_replacement_2050": {
+    "value": 68.9890721985882,
+    "display": "69%",
+    "what": "% of world population in countries with TFR below 2.1, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "share_below_replacement_2100": {
+    "value": 86.96761826929547,
+    "display": "87%",
+    "what": "% of world population in countries with TFR below 2.1, 2100",
+    "source": "UN World Population Prospects 2024"
+  },
+  "share_below_nrr_2023": {
+    "value": 71.40369460033664,
+    "display": "71%",
+    "what": "same, using net reproduction rate below 1, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "countries_below_2_1_2023": {
+    "value": 130,
+    "display": "130",
+    "what": "countries and areas with TFR below 2.1, 2023 (of 237)",
+    "source": "UN World Population Prospects 2024"
+  },
+  "world_tfr_2023": {
+    "value": 2.2505,
+    "display": "2.25",
+    "what": "world total fertility rate, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "china_below_2_1_since": {
+    "value": 1991,
+    "display": "1991",
+    "what": "first year China's TFR was below 2.1",
+    "source": "UN World Population Prospects 2024"
+  },
+  "india_below_2_1_since": {
+    "value": 2020,
+    "display": "2020",
+    "what": "first year India's TFR was below 2.1",
+    "source": "UN World Population Prospects 2024"
+  },
+  "india_share_world_pop_2023": {
+    "value": 17.772079886952007,
+    "display": "18%",
+    "what": "India's share of world population, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_kor": {
+    "value": 0.72,
+    "display": "0.72",
+    "what": "total fertility rate, South Korea, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_jpn": {
+    "value": 1.2079,
+    "display": "1.21",
+    "what": "total fertility rate, Japan, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_chn": {
+    "value": 0.9995,
+    "display": "1.00",
+    "what": "total fertility rate, China, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_ita": {
+    "value": 1.1977,
+    "display": "1.20",
+    "what": "total fertility rate, Italy, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_esp": {
+    "value": 1.2131,
+    "display": "1.21",
+    "what": "total fertility rate, Spain, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_deu": {
+    "value": 1.4414,
+    "display": "1.44",
+    "what": "total fertility rate, Germany, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_fra": {
+    "value": 1.6389,
+    "display": "1.64",
+    "what": "total fertility rate, France, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_gbr": {
+    "value": 1.56,
+    "display": "1.56",
+    "what": "total fertility rate, Britain, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_usa": {
+    "value": 1.6236,
+    "display": "1.62",
+    "what": "total fertility rate, United States, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_bra": {
+    "value": 1.6191,
+    "display": "1.62",
+    "what": "total fertility rate, Brazil, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_ind": {
+    "value": 1.9754,
+    "display": "1.98",
+    "what": "total fertility rate, India, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_nga": {
+    "value": 4.4817,
+    "display": "4.48",
+    "what": "total fertility rate, Nigeria, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2023_wld": {
+    "value": 2.2505,
+    "display": "2.25",
+    "what": "total fertility rate, World, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_1960_kor": {
+    "value": 5.9942,
+    "display": "5.99",
+    "what": "total fertility rate, South Korea, 1960",
+    "source": "UN World Population Prospects 2024"
+  },
+  "tfr_2024_kor_worldbank": {
+    "value": 0.748,
+    "display": "0.75",
+    "what": "total fertility rate, South Korea, 2024 (latest official)",
+    "source": "World Bank WDI"
+  },
+  "peak_workers_year_ita": {
+    "value": 1992,
+    "display": "1992",
+    "what": "year the 15-64 population peaks, Italy",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_ita": {
+    "value": -31.264527414356714,
+    "display": "-31%",
+    "what": "15-64 population in 2050 vs its peak, Italy",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_ita": {
+    "value": -27.481834688507647,
+    "display": "-27%",
+    "what": "change in the 15-64 population from 2025 to 2050, Italy",
+    "source": "UN World Population Prospects 2024"
+  },
+  "peak_workers_year_jpn": {
+    "value": 1995,
+    "display": "1995",
+    "what": "year the 15-64 population peaks, Japan",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_jpn": {
+    "value": -38.46986908077884,
+    "display": "-38%",
+    "what": "15-64 population in 2050 vs its peak, Japan",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_jpn": {
+    "value": -25.497609753640493,
+    "display": "-25%",
+    "what": "change in the 15-64 population from 2025 to 2050, Japan",
+    "source": "UN World Population Prospects 2024"
+  },
+  "peak_workers_year_deu": {
+    "value": 1997,
+    "display": "1997",
+    "what": "year the 15-64 population peaks, Germany",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_deu": {
+    "value": -21.23088407158309,
+    "display": "-21%",
+    "what": "15-64 population in 2050 vs its peak, Germany",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_deu": {
+    "value": -15.56085395697908,
+    "display": "-16%",
+    "what": "change in the 15-64 population from 2025 to 2050, Germany",
+    "source": "UN World Population Prospects 2024"
+  },
+  "peak_workers_year_esp": {
+    "value": 2009,
+    "display": "2009",
+    "what": "year the 15-64 population peaks, Spain",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_esp": {
+    "value": -26.30924385684823,
+    "display": "-26%",
+    "what": "15-64 population in 2050 vs its peak, Spain",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_esp": {
+    "value": -25.156411018173806,
+    "display": "-25%",
+    "what": "change in the 15-64 population from 2025 to 2050, Spain",
+    "source": "UN World Population Prospects 2024"
+  },
+  "peak_workers_year_fra": {
+    "value": 2011,
+    "display": "2011",
+    "what": "year the 15-64 population peaks, France",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_fra": {
+    "value": -5.475394666925892,
+    "display": "-5%",
+    "what": "15-64 population in 2050 vs its peak, France",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_fra": {
+    "value": -4.935918685387197,
+    "display": "-5%",
+    "what": "change in the 15-64 population from 2025 to 2050, France",
+    "source": "UN World Population Prospects 2024"
+  },
+  "peak_workers_year_chn": {
+    "value": 2015,
+    "display": "2015",
+    "what": "year the 15-64 population peaks, China",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_chn": {
+    "value": -25.47307915610436,
+    "display": "-25%",
+    "what": "15-64 population in 2050 vs its peak, China",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_chn": {
+    "value": -24.470438170096386,
+    "display": "-24%",
+    "what": "change in the 15-64 population from 2025 to 2050, China",
+    "source": "UN World Population Prospects 2024"
+  },
+  "peak_workers_year_kor": {
+    "value": 2017,
+    "display": "2017",
+    "what": "year the 15-64 population peaks, South Korea",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_kor": {
+    "value": -37.054347457336924,
+    "display": "-37%",
+    "what": "15-64 population in 2050 vs its peak, South Korea",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_kor": {
+    "value": -33.98289500175561,
+    "display": "-34%",
+    "what": "change in the 15-64 population from 2025 to 2050, South Korea",
+    "source": "UN World Population Prospects 2024"
+  },
+  "peak_workers_year_bra": {
+    "value": 2033,
+    "display": "2033",
+    "what": "year the 15-64 population peaks, Brazil",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_bra": {
+    "value": -7.526073464335859,
+    "display": "-8%",
+    "what": "15-64 population in 2050 vs its peak, Brazil",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_bra": {
+    "value": -7.095988074197401,
+    "display": "-7%",
+    "what": "change in the 15-64 population from 2025 to 2050, Brazil",
+    "source": "UN World Population Prospects 2024"
+  },
+  "peak_workers_year_gbr": {
+    "value": 2044,
+    "display": "2044",
+    "what": "year the 15-64 population peaks, Britain",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_gbr": {
+    "value": -0.5819993440383642,
+    "display": "-1%",
+    "what": "15-64 population in 2050 vs its peak, Britain",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_gbr": {
+    "value": 3.2984710236445336,
+    "display": "+3%",
+    "what": "change in the 15-64 population from 2025 to 2050, Britain",
+    "source": "UN World Population Prospects 2024"
+  },
+  "peak_workers_year_ind": {
+    "value": 2048,
+    "display": "2048",
+    "what": "year the 15-64 population peaks, India",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_ind": {
+    "value": -0.09338344387292974,
+    "display": "-0%",
+    "what": "15-64 population in 2050 vs its peak, India",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_ind": {
+    "value": 13.22227239567022,
+    "display": "+13%",
+    "what": "change in the 15-64 population from 2025 to 2050, India",
+    "source": "UN World Population Prospects 2024"
+  },
+  "peak_workers_year_nga": {
+    "value": 2096,
+    "display": "2096",
+    "what": "year the 15-64 population peaks, Nigeria",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_nga": {
+    "value": -27.9122102619636,
+    "display": "-28%",
+    "what": "15-64 population in 2050 vs its peak, Nigeria",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_nga": {
+    "value": 73.08574509840314,
+    "display": "+73%",
+    "what": "change in the 15-64 population from 2025 to 2050, Nigeria",
+    "source": "UN World Population Prospects 2024"
+  },
+  "peak_workers_year_usa": {
+    "value": 2100,
+    "display": "2100",
+    "what": "year the 15-64 population peaks, United States",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2050_vs_peak_usa": {
+    "value": -3.6094639204742207,
+    "display": "-4%",
+    "what": "15-64 population in 2050 vs its peak, United States",
+    "source": "UN World Population Prospects 2024"
+  },
+  "workers_2025_to_2050_usa": {
+    "value": 3.6633326294281288,
+    "display": "+4%",
+    "what": "change in the 15-64 population from 2025 to 2050, United States",
+    "source": "UN World Population Prospects 2024"
+  },
+  "china_workers_lost_peak_to_2050_m": {
+    "value": 254.73819200000003,
+    "display": "255m",
+    "what": "fall in China's 15-64 population from its peak to 2050, millions",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_kor": {
+    "value": 12.059610506182224,
+    "display": "12.06",
+    "what": "people aged 20-64 per person 65+, South Korea, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_kor": {
+    "value": 3.1970111929371736,
+    "display": "3.20",
+    "what": "people aged 20-64 per person 65+, South Korea, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_kor": {
+    "value": 1.2485621123533666,
+    "display": "1.25",
+    "what": "people aged 20-64 per person 65+, South Korea, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_jpn": {
+    "value": 5.058086356932301,
+    "display": "5.06",
+    "what": "people aged 20-64 per person 65+, Japan, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_jpn": {
+    "value": 1.8060624406344572,
+    "display": "1.81",
+    "what": "people aged 20-64 per person 65+, Japan, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_jpn": {
+    "value": 1.2656421210039308,
+    "display": "1.27",
+    "what": "people aged 20-64 per person 65+, Japan, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_chn": {
+    "value": 10.320735748326898,
+    "display": "10.32",
+    "what": "people aged 20-64 per person 65+, China, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_chn": {
+    "value": 4.27207764315508,
+    "display": "4.27",
+    "what": "people aged 20-64 per person 65+, China, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_chn": {
+    "value": 1.807225060450259,
+    "display": "1.81",
+    "what": "people aged 20-64 per person 65+, China, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_ita": {
+    "value": 4.072295941803455,
+    "display": "4.07",
+    "what": "people aged 20-64 per person 65+, Italy, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_ita": {
+    "value": 2.324085690086456,
+    "display": "2.32",
+    "what": "people aged 20-64 per person 65+, Italy, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_ita": {
+    "value": 1.316323019874189,
+    "display": "1.32",
+    "what": "people aged 20-64 per person 65+, Italy, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_esp": {
+    "value": 4.296276042212701,
+    "display": "4.30",
+    "what": "people aged 20-64 per person 65+, Spain, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_esp": {
+    "value": 2.788500813121087,
+    "display": "2.79",
+    "what": "people aged 20-64 per person 65+, Spain, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_esp": {
+    "value": 1.3480231776826046,
+    "display": "1.35",
+    "what": "people aged 20-64 per person 65+, Spain, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_deu": {
+    "value": 4.263856714711064,
+    "display": "4.26",
+    "what": "people aged 20-64 per person 65+, Germany, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_deu": {
+    "value": 2.438874198301998,
+    "display": "2.44",
+    "what": "people aged 20-64 per person 65+, Germany, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_deu": {
+    "value": 1.7220973434311746,
+    "display": "1.72",
+    "what": "people aged 20-64 per person 65+, Germany, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_fra": {
+    "value": 4.170453721218741,
+    "display": "4.17",
+    "what": "people aged 20-64 per person 65+, France, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_fra": {
+    "value": 2.4396549601147477,
+    "display": "2.44",
+    "what": "people aged 20-64 per person 65+, France, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_fra": {
+    "value": 1.8789735682713948,
+    "display": "1.88",
+    "what": "people aged 20-64 per person 65+, France, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_gbr": {
+    "value": 3.657633203911516,
+    "display": "3.66",
+    "what": "people aged 20-64 per person 65+, Britain, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_gbr": {
+    "value": 2.9067342494651185,
+    "display": "2.91",
+    "what": "people aged 20-64 per person 65+, Britain, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_gbr": {
+    "value": 2.2390828787328108,
+    "display": "2.24",
+    "what": "people aged 20-64 per person 65+, Britain, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_usa": {
+    "value": 4.814391221599422,
+    "display": "4.81",
+    "what": "people aged 20-64 per person 65+, United States, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_usa": {
+    "value": 3.1511006511314874,
+    "display": "3.15",
+    "what": "people aged 20-64 per person 65+, United States, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_usa": {
+    "value": 2.404806468892645,
+    "display": "2.40",
+    "what": "people aged 20-64 per person 65+, United States, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_bra": {
+    "value": 12.211094548597002,
+    "display": "12.21",
+    "what": "people aged 20-64 per person 65+, Brazil, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_bra": {
+    "value": 5.420435865277023,
+    "display": "5.42",
+    "what": "people aged 20-64 per person 65+, Brazil, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_bra": {
+    "value": 2.5587524274772524,
+    "display": "2.56",
+    "what": "people aged 20-64 per person 65+, Brazil, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_ind": {
+    "value": 11.703156873222014,
+    "display": "11.70",
+    "what": "people aged 20-64 per person 65+, India, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_ind": {
+    "value": 8.103001391375324,
+    "display": "8.10",
+    "what": "people aged 20-64 per person 65+, India, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_ind": {
+    "value": 4.162640250595412,
+    "display": "4.16",
+    "what": "people aged 20-64 per person 65+, India, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_1990_nga": {
+    "value": 13.184165028399008,
+    "display": "13.18",
+    "what": "people aged 20-64 per person 65+, Nigeria, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2025_nga": {
+    "value": 14.693833398184967,
+    "display": "14.69",
+    "what": "people aged 20-64 per person 65+, Nigeria, 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "support_2050_nga": {
+    "value": 12.07426199779669,
+    "display": "12.07",
+    "what": "people aged 20-64 per person 65+, Nigeria, 2050",
+    "source": "UN World Population Prospects 2024"
+  },
+  "drag_kor": {
+    "value": -1.1210985251261576,
+    "display": "-1.12",
+    "what": "demographic drag on GDP per person, South Korea, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_kor": {
+    "value": -0.49175140155736513,
+    "display": "-0.49",
+    "what": "drag if working ages extend to 69 by 2050, South Korea, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_kor": {
+    "value": 1.4978846267232249,
+    "display": "+1.50",
+    "what": "growth in GDP per person employed, South Korea, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_kor": {
+    "value": 0.37678610159706727,
+    "display": "+0.38",
+    "what": "GDP per person growth if productivity repeats 2014-24, South Korea, % a year",
+    "source": "author's calculation"
+  },
+  "drag_jpn": {
+    "value": -0.5457854205987179,
+    "display": "-0.55",
+    "what": "demographic drag on GDP per person, Japan, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_jpn": {
+    "value": -0.019702879333336174,
+    "display": "-0.02",
+    "what": "drag if working ages extend to 69 by 2050, Japan, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_jpn": {
+    "value": -0.09869254654435552,
+    "display": "-0.10",
+    "what": "growth in GDP per person employed, Japan, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_jpn": {
+    "value": -0.6444779671430735,
+    "display": "-0.64",
+    "what": "GDP per person growth if productivity repeats 2014-24, Japan, % a year",
+    "source": "author's calculation"
+  },
+  "drag_chn": {
+    "value": -0.6563333460950637,
+    "display": "-0.66",
+    "what": "demographic drag on GDP per person, China, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_chn": {
+    "value": -0.02982652529886232,
+    "display": "-0.03",
+    "what": "drag if working ages extend to 69 by 2050, China, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_chn": {
+    "value": 5.766529341187191,
+    "display": "+5.77",
+    "what": "growth in GDP per person employed, China, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_chn": {
+    "value": 5.110195995092127,
+    "display": "+5.11",
+    "what": "GDP per person growth if productivity repeats 2014-24, China, % a year",
+    "source": "author's calculation"
+  },
+  "drag_ita": {
+    "value": -0.761868137409754,
+    "display": "-0.76",
+    "what": "demographic drag on GDP per person, Italy, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_ita": {
+    "value": -0.24052206433161755,
+    "display": "-0.24",
+    "what": "drag if working ages extend to 69 by 2050, Italy, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_ita": {
+    "value": 0.21170430057828452,
+    "display": "+0.21",
+    "what": "growth in GDP per person employed, Italy, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_ita": {
+    "value": -0.5501638368314695,
+    "display": "-0.55",
+    "what": "GDP per person growth if productivity repeats 2014-24, Italy, % a year",
+    "source": "author's calculation"
+  },
+  "drag_esp": {
+    "value": -0.9037500902648591,
+    "display": "-0.90",
+    "what": "demographic drag on GDP per person, Spain, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_esp": {
+    "value": -0.33410582561913055,
+    "display": "-0.33",
+    "what": "drag if working ages extend to 69 by 2050, Spain, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_esp": {
+    "value": -0.09783030576415151,
+    "display": "-0.10",
+    "what": "growth in GDP per person employed, Spain, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_esp": {
+    "value": -1.0015803960290106,
+    "display": "-1.00",
+    "what": "GDP per person growth if productivity repeats 2014-24, Spain, % a year",
+    "source": "author's calculation"
+  },
+  "drag_deu": {
+    "value": -0.39163096537781317,
+    "display": "-0.39",
+    "what": "demographic drag on GDP per person, Germany, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_deu": {
+    "value": 0.04138918024176708,
+    "display": "+0.04",
+    "what": "drag if working ages extend to 69 by 2050, Germany, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_deu": {
+    "value": 0.3968061785460987,
+    "display": "+0.40",
+    "what": "growth in GDP per person employed, Germany, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_deu": {
+    "value": 0.0051752131682855085,
+    "display": "+0.01",
+    "what": "GDP per person growth if productivity repeats 2014-24, Germany, % a year",
+    "source": "author's calculation"
+  },
+  "drag_fra": {
+    "value": -0.29553960157963843,
+    "display": "-0.30",
+    "what": "demographic drag on GDP per person, France, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_fra": {
+    "value": 0.15591751936129536,
+    "display": "+0.16",
+    "what": "drag if working ages extend to 69 by 2050, France, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_fra": {
+    "value": 0.33136787213024965,
+    "display": "+0.33",
+    "what": "growth in GDP per person employed, France, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_fra": {
+    "value": 0.03582827055061122,
+    "display": "+0.04",
+    "what": "GDP per person growth if productivity repeats 2014-24, France, % a year",
+    "source": "author's calculation"
+  },
+  "drag_gbr": {
+    "value": -0.1987088269059813,
+    "display": "-0.20",
+    "what": "demographic drag on GDP per person, Britain, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_gbr": {
+    "value": 0.24949251314017545,
+    "display": "+0.25",
+    "what": "drag if working ages extend to 69 by 2050, Britain, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_gbr": {
+    "value": 0.5066591510312699,
+    "display": "+0.51",
+    "what": "growth in GDP per person employed, Britain, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_gbr": {
+    "value": 0.3079503241252886,
+    "display": "+0.31",
+    "what": "GDP per person growth if productivity repeats 2014-24, Britain, % a year",
+    "source": "author's calculation"
+  },
+  "drag_usa": {
+    "value": -0.22519964055640504,
+    "display": "-0.23",
+    "what": "demographic drag on GDP per person, United States, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_usa": {
+    "value": 0.20955616012998704,
+    "display": "+0.21",
+    "what": "drag if working ages extend to 69 by 2050, United States, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_usa": {
+    "value": 1.4415821488407266,
+    "display": "+1.44",
+    "what": "growth in GDP per person employed, United States, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_usa": {
+    "value": 1.2163825082843216,
+    "display": "+1.22",
+    "what": "GDP per person growth if productivity repeats 2014-24, United States, % a year",
+    "source": "author's calculation"
+  },
+  "drag_bra": {
+    "value": -0.38136783941886504,
+    "display": "-0.38",
+    "what": "demographic drag on GDP per person, Brazil, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_bra": {
+    "value": 0.12154086135970607,
+    "display": "+0.12",
+    "what": "drag if working ages extend to 69 by 2050, Brazil, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_bra": {
+    "value": -0.04321144631511581,
+    "display": "-0.04",
+    "what": "growth in GDP per person employed, Brazil, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_bra": {
+    "value": -0.42457928573398085,
+    "display": "-0.42",
+    "what": "GDP per person growth if productivity repeats 2014-24, Brazil, % a year",
+    "source": "author's calculation"
+  },
+  "drag_ind": {
+    "value": -0.05314403085299608,
+    "display": "-0.05",
+    "what": "demographic drag on GDP per person, India, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_ind": {
+    "value": 0.4015577492738409,
+    "display": "+0.40",
+    "what": "drag if working ages extend to 69 by 2050, India, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_ind": {
+    "value": 3.1887466780067593,
+    "display": "+3.19",
+    "what": "growth in GDP per person employed, India, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_ind": {
+    "value": 3.135602647153763,
+    "display": "+3.14",
+    "what": "GDP per person growth if productivity repeats 2014-24, India, % a year",
+    "source": "author's calculation"
+  },
+  "drag_nga": {
+    "value": 0.5402495551308423,
+    "display": "+0.54",
+    "what": "demographic drag on GDP per person, Nigeria, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_nga": {
+    "value": 0.9198299972022836,
+    "display": "+0.92",
+    "what": "drag if working ages extend to 69 by 2050, Nigeria, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_nga": {
+    "value": -1.9591866361968204,
+    "display": "-1.96",
+    "what": "growth in GDP per person employed, Nigeria, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_nga": {
+    "value": -1.418937081065978,
+    "display": "-1.42",
+    "what": "GDP per person growth if productivity repeats 2014-24, Nigeria, % a year",
+    "source": "author's calculation"
+  },
+  "drag_wld": {
+    "value": -0.11822430418886451,
+    "display": "-0.12",
+    "what": "demographic drag on GDP per person, World, 2025-50, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "drag_work70_wld": {
+    "value": 0.27854937242558486,
+    "display": "+0.28",
+    "what": "drag if working ages extend to 69 by 2050, World, pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "productivity_2014_24_wld": {
+    "value": 1.7783796190672043,
+    "display": "+1.78",
+    "what": "growth in GDP per person employed, World, 2014-24, % a year",
+    "source": "World Bank WDI"
+  },
+  "left_wld": {
+    "value": 1.66015531487834,
+    "display": "+1.66",
+    "what": "GDP per person growth if productivity repeats 2014-24, World, % a year",
+    "source": "author's calculation"
+  },
+  "countries_over_5m": {
+    "value": 128,
+    "display": "128",
+    "what": "countries and areas with more than 5m people in 2025",
+    "source": "UN World Population Prospects 2024"
+  },
+  "kor_drag_rank": {
+    "value": 2,
+    "display": "2",
+    "what": "South Korea's rank by size of drag among them (1 = largest)",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "countries_drag_over_half_point": {
+    "value": 16,
+    "display": "16",
+    "what": "of those, countries with a drag larger than 0.5 pp a year",
+    "source": "UN World Population Prospects 2024; author's calculation"
+  },
+  "ai_acemoglu_high": {
+    "value": 0.11,
+    "display": "0.11",
+    "what": "AI productivity forecast, Acemoglu (2024), upper end, pp a year (labour productivity (converted from TFP), US)",
+    "source": "https://www.nber.org/papers/w32487"
+  },
+  "ai_penn_wharton_high": {
+    "value": 0.2,
+    "display": "0.20",
+    "what": "AI productivity forecast, Penn Wharton (2025), upper end, pp a year (productivity, US)",
+    "source": "https://budgetmodel.wharton.upenn.edu/p/2025-09-08-the-projected-impact-of-generative-ai-on-future-productivity-growth/"
+  },
+  "ai_mckinsey_high": {
+    "value": 0.6,
+    "display": "0.60",
+    "what": "AI productivity forecast, McKinsey (2023), upper end, pp a year (labour productivity, world)",
+    "source": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier"
+  },
+  "ai_oecd_high": {
+    "value": 0.9,
+    "display": "0.90",
+    "what": "AI productivity forecast, OECD (2024), upper end, pp a year (labour productivity, US (others somewhat lower))",
+    "source": "https://oecdecoscope.blog/2024/11/26/miracle-or-myth-assessing-the-macroeconomic-productivity-gains-from-artificial-intelligence/"
+  },
+  "ai_aghion_bunel_high": {
+    "value": 1.3,
+    "display": "1.30",
+    "what": "AI productivity forecast, Aghion & Bunel (2024), upper end, pp a year (aggregate productivity, not country-specific)",
+    "source": "https://www.frbsf.org/wp-content/uploads/AI-and-Growth-Aghion-Bunel.pdf"
+  },
+  "ai_goldman_sachs_high": {
+    "value": 1.5,
+    "display": "1.50",
+    "what": "AI productivity forecast, Goldman Sachs (2023), upper end, pp a year (labour productivity, US)",
+    "source": "https://www.goldmansachs.com/insights/articles/ai-may-start-to-boost-us-gdp-in-2027"
+  },
+  "forecasts_covering_korea": {
+    "value": 2,
+    "display": "2",
+    "what": "forecasts (of 6) whose upper end covers South Korea's drag",
+    "source": "author's calculation"
+  },
+  "forecasts_covering_japan": {
+    "value": 4,
+    "display": "4",
+    "what": "forecasts (of 6) whose upper end covers Japan's drag",
+    "source": "author's calculation"
+  },
+  "forecasts_covering_us": {
+    "value": 4,
+    "display": "4",
+    "what": "forecasts (of 6) whose upper end covers the US drag",
+    "source": "author's calculation"
+  },
+  "young_grad_unemployment_latest": {
+    "value": 6.933333333333333,
+    "display": "6.9%",
+    "what": "unemployment, graduates aged 20-24, 12-month average to Sep 2026, %",
+    "source": "BLS CPS via FRED (CGBD2024)"
+  },
+  "young_grad_unemployment_2019": {
+    "value": 5.133333333333334,
+    "display": "5.1%",
+    "what": "same, 12 months to Dec 2019, %",
+    "source": "BLS CPS via FRED (CGBD2024)"
+  },
+  "older_grad_unemployment_latest": {
+    "value": 3.0250000000000004,
+    "display": "3.0%",
+    "what": "unemployment, graduates aged 25+, 12-month average to Sep 2026, %",
+    "source": "BLS CPS via FRED (CGBD25O)"
+  },
+  "older_grad_unemployment_2019": {
+    "value": 2.25,
+    "display": "2.2%",
+    "what": "same, 12 months to Dec 2019, %",
+    "source": "BLS CPS via FRED (CGBD25O)"
+  },
+  "young_grad_unemployment_last_this_high": {
+    "value": 2021,
+    "display": "2021",
+    "what": "last year (before 2024) the young-graduate rate was this high",
+    "source": "BLS CPS via FRED"
+  },
+  "young_to_older_ratio_2001_19": {
+    "value": 2.0095774920234506,
+    "display": "2.0x",
+    "what": "young-graduate rate divided by older-graduate rate, average 2001-19",
+    "source": "BLS CPS via FRED"
+  },
+  "young_to_older_ratio_latest": {
+    "value": 2.292011019283746,
+    "display": "2.3x",
+    "what": "same, latest 12 months",
+    "source": "BLS CPS via FRED"
+  },
+  "age20_24_unemployment_latest": {
+    "value": 9.9,
+    "display": "9.9%",
+    "what": "unemployment, all 20-24-year-olds, Sep 2026, %",
+    "source": "BLS CPS via FRED (LNS14024887)"
+  },
+  "postings_total_latest": {
+    "value": 103.02642857142857,
+    "display": "103",
+    "what": "Indeed US postings index, all jobs, 28 days to 25 Sep 2026 (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab"
+  },
+  "postings_total_change_since_chatgpt": {
+    "value": -30.262680765269845,
+    "display": "-30%",
+    "what": "change in all US postings since Nov 2022, %",
+    "source": "Indeed Hiring Lab"
+  },
+  "postings_software_development": {
+    "value": 76.67464285714286,
+    "display": "77",
+    "what": "Indeed postings index, Software Development (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab"
+  },
+  "postings_data_analytics": {
+    "value": 61.220000000000006,
+    "display": "61",
+    "what": "Indeed postings index, Data & Analytics (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab"
+  },
+  "postings_media_communications": {
+    "value": 70.82892857142858,
+    "display": "71",
+    "what": "Indeed postings index, Media & Communications (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab"
+  },
+  "postings_customer_service": {
+    "value": 87.96285714285715,
+    "display": "88",
+    "what": "Indeed postings index, Customer Service (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab"
+  },
+  "postings_nursing": {
+    "value": 107.12249999999999,
+    "display": "107",
+    "what": "Indeed postings index, Nursing (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab"
+  },
+  "postings_personal_care_home_health": {
+    "value": 155.10357142857143,
+    "display": "155",
+    "what": "Indeed postings index, Personal Care & Home Health (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab"
+  },
+  "postings_physicians_surgeons": {
+    "value": 191.6214285714286,
+    "display": "192",
+    "what": "Indeed postings index, Physicians & Surgeons (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab"
+  },
+  "postings_therapy": {
+    "value": 181.85857142857142,
+    "display": "182",
+    "what": "Indeed postings index, Therapy (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab"
+  },
+  "postings_childcare": {
+    "value": 85.79857142857144,
+    "display": "86",
+    "what": "Indeed postings index, Childcare (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab"
+  },
+  "postings_median_hands-on": {
+    "value": 114.38392857142857,
+    "display": "114",
+    "what": "median postings index across hands-on sectors (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab; author's grouping"
+  },
+  "postings_median_health_and_care": {
+    "value": 121.01785714285714,
+    "display": "121",
+    "what": "median postings index across health and care sectors (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab; author's grouping"
+  },
+  "postings_median_office_and_tech": {
+    "value": 95.91464285714287,
+    "display": "96",
+    "what": "median postings index across office and tech sectors (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab; author's grouping"
+  },
+  "postings_median_people-facing": {
+    "value": 87.64660714285714,
+    "display": "88",
+    "what": "median postings index across people-facing sectors (Feb 2020 = 100)",
+    "source": "Indeed Hiring Lab; author's grouping"
+  },
+  "corr_exposure_vs_level": {
+    "value": -0.32613712989146,
+    "display": "-0.33",
+    "what": "correlation across 47 sectors: AI exposure vs postings level",
+    "source": "Indeed; Eloundou et al. 2023; author's calculation"
+  },
+  "corr_exposure_vs_change_since_chatgpt": {
+    "value": -0.2740555188624489,
+    "display": "-0.27",
+    "what": "correlation: AI exposure vs change in postings since Nov 2022",
+    "source": "Indeed; Eloundou et al. 2023; author's calculation"
+  },
+  "births_25_29_change_kor": {
+    "value": -86.82788570889828,
+    "display": "-87%",
+    "what": "change in births per 1,000 women aged 25-29, South Korea, 1990-2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "births_under30_share_2023_kor": {
+    "value": 18.355048405546412,
+    "display": "18%",
+    "what": "share of the TFR from births before 30, South Korea, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_2023_kor": {
+    "value": 33.424,
+    "display": "33.4",
+    "what": "mean age at childbearing, South Korea, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_1990_kor": {
+    "value": 27.199,
+    "display": "27.2",
+    "what": "mean age at childbearing, South Korea, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "births_25_29_change_jpn": {
+    "value": -52.020823679332715,
+    "display": "-52%",
+    "what": "change in births per 1,000 women aged 25-29, Japan, 1990-2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "births_under30_share_2023_jpn": {
+    "value": 35.68188049953884,
+    "display": "36%",
+    "what": "share of the TFR from births before 30, Japan, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_2023_jpn": {
+    "value": 31.915,
+    "display": "31.9",
+    "what": "mean age at childbearing, Japan, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_1990_jpn": {
+    "value": 28.957,
+    "display": "29.0",
+    "what": "mean age at childbearing, Japan, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "births_25_29_change_ita": {
+    "value": -42.278283485045506,
+    "display": "-42%",
+    "what": "change in births per 1,000 women aged 25-29, Italy, 1990-2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "births_under30_share_2023_ita": {
+    "value": 32.84831714290492,
+    "display": "33%",
+    "what": "share of the TFR from births before 30, Italy, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_2023_ita": {
+    "value": 32.309,
+    "display": "32.3",
+    "what": "mean age at childbearing, Italy, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_1990_ita": {
+    "value": 28.912,
+    "display": "28.9",
+    "what": "mean age at childbearing, Italy, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "births_25_29_change_usa": {
+    "value": -23.851933388370483,
+    "display": "-24%",
+    "what": "change in births per 1,000 women aged 25-29, United States, 1990-2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "births_under30_share_2023_usa": {
+    "value": 50.26415628451956,
+    "display": "50%",
+    "what": "share of the TFR from births before 30, United States, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_2023_usa": {
+    "value": 29.898,
+    "display": "29.9",
+    "what": "mean age at childbearing, United States, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_1990_usa": {
+    "value": 26.538,
+    "display": "26.5",
+    "what": "mean age at childbearing, United States, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "births_25_29_change_chn": {
+    "value": -62.5140024568562,
+    "display": "-63%",
+    "what": "change in births per 1,000 women aged 25-29, China, 1990-2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "births_under30_share_2023_chn": {
+    "value": 60.658974950130805,
+    "display": "61%",
+    "what": "share of the TFR from births before 30, China, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_2023_chn": {
+    "value": 29.018,
+    "display": "29.0",
+    "what": "mean age at childbearing, China, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_1990_chn": {
+    "value": 26.075,
+    "display": "26.1",
+    "what": "mean age at childbearing, China, 1990",
+    "source": "UN World Population Prospects 2024"
+  },
+  "births_25_29_change_ind": {
+    "value": -31.676504552190355,
+    "display": "-32%",
+    "what": "change in births per 1,000 women aged 25-29, India, 1990-2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "births_under30_share_2023_ind": {
+    "value": 71.2457327103701,
+    "display": "71%",
+    "what": "share of the TFR from births before 30, India, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_2023_ind": {
+    "value": 27.534,
+    "display": "27.5",
+    "what": "mean age at childbearing, India, 2023",
+    "source": "UN World Population Prospects 2024"
+  },
+  "mean_age_childbearing_1990_ind": {
+    "value": 25.791,
+    "display": "25.8",
+    "what": "mean age at childbearing, India, 1990",
+    "source": "UN World Population Prospects 2024"
+  }
+}

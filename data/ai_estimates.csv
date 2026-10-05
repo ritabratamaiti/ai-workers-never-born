@@ -1,0 +1,7 @@
+label,low_pp,high_pp,measure,geography,horizon,basis,url
+Acemoglu (2024),0.08,0.11,labour productivity (converted from TFP),US,next 10 years,"TFP gains of 0.53-0.66% over 10 years (0.053-0.066 pp a year), multiplied by 1.5-1.6, the labour-productivity-to-TFP ratio implied by the OECD's own ranges",https://www.nber.org/papers/w32487
+Penn Wharton (2025),0.15,0.20,productivity,US,2025-2035,"productivity and GDP 1.5% higher by 2035 (about 0.15 pp a year on average); peak annual contribution 0.2 pp in 2032",https://budgetmodel.wharton.upenn.edu/p/2025-09-08-the-projected-impact-of-generative-ai-on-future-productivity-growth/
+McKinsey (2023),0.10,0.60,labour productivity,world,to 2040,generative AI alone,https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier
+OECD (2024),0.40,0.90,labour productivity,US (others somewhat lower),next 10 years,"main scenarios; TFP 0.25-0.6 pp; 'estimates for other economies are of similar magnitude, though somewhat lower'",https://oecdecoscope.blog/2024/11/26/miracle-or-myth-assessing-the-macroeconomic-productivity-gains-from-artificial-intelligence/
+Aghion & Bunel (2024),0.80,1.30,aggregate productivity,not country-specific,next 10 years,by analogy with past technology revolutions,https://www.frbsf.org/wp-content/uploads/AI-and-Growth-Aghion-Bunel.pdf
+Goldman Sachs (2023),1.50,1.50,labour productivity,US,10-year adoption,assuming widespread adoption,https://www.goldmansachs.com/insights/articles/ai-may-start-to-boost-us-gdp-in-2027

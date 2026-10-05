@@ -1,0 +1,74 @@
+{
+  "fred_CGBD2024": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CGBD2024",
+    "file": "data/raw/fred_CGBD2024.csv",
+    "bytes": 4860,
+    "retrieved": "2026-10-05"
+  },
+  "fred_CGBD25O": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=CGBD25O",
+    "file": "data/raw/fred_CGBD25O.csv",
+    "bytes": 4837,
+    "retrieved": "2026-10-05"
+  },
+  "fred_LNS14000060": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=LNS14000060",
+    "file": "data/raw/fred_LNS14000060.csv",
+    "bytes": 14203,
+    "retrieved": "2026-10-05"
+  },
+  "fred_LNS14024887": {
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=LNS14024887",
+    "file": "data/raw/fred_LNS14024887.csv",
+    "bytes": 14873,
+    "retrieved": "2026-10-05"
+  },
+  "gpts_exposure": {
+    "url": "https://raw.githubusercontent.com/openai/GPTs-are-GPTs/main/data/occ_level.csv",
+    "file": "data/raw/occ_level.csv",
+    "bytes": 126022,
+    "retrieved": "2026-10-05"
+  },
+  "indeed_sectors": {
+    "url": "https://raw.githubusercontent.com/hiring-lab/job_postings_tracker/master/US/job_postings_by_sector_US.csv",
+    "file": "data/raw/job_postings_by_sector_US.csv",
+    "bytes": 12033516,
+    "retrieved": "2026-10-05"
+  },
+  "indeed_total": {
+    "url": "https://raw.githubusercontent.com/hiring-lab/job_postings_tracker/master/US/aggregate_job_postings_US.csv",
+    "file": "data/raw/aggregate_job_postings_US.csv",
+    "bytes": 201535,
+    "retrieved": "2026-10-05"
+  },
+  "worldbank_SL.GDP.PCAP.EM.KD": {
+    "url": "https://api.worldbank.org/v2/country/KOR;JPN;CHN;ITA;ESP;DEU;FRA;GBR;USA;BRA;IND;NGA;WLD/indicator/SL.GDP.PCAP.EM.KD?format=json&per_page=20000&date=1991:2024",
+    "file": "data/raw/worldbank_SL.GDP.PCAP.EM.KD_1991-2024.json",
+    "bytes": 105360,
+    "retrieved": "2026-10-05"
+  },
+  "worldbank_SP.DYN.TFRT.IN": {
+    "url": "https://api.worldbank.org/v2/country/KOR;JPN;CHN;ITA;ESP;DEU;FRA;GBR;USA;BRA;IND;NGA;WLD/indicator/SP.DYN.TFRT.IN?format=json&per_page=20000&date=2020:2024",
+    "file": "data/raw/worldbank_SP.DYN.TFRT.IN_2020-2024.json",
+    "bytes": 14371,
+    "retrieved": "2026-10-05"
+  },
+  "wpp_age5": {
+    "url": "https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_PopulationByAge5GroupSex_Medium.csv.gz",
+    "file": "data/raw/WPP2024_PopulationByAge5GroupSex_Medium.csv.gz",
+    "bytes": 29948947,
+    "retrieved": "2026-10-05"
+  },
+  "wpp_asfr5": {
+    "url": "https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_Fertility_by_Age5.csv.gz",
+    "file": "data/raw/WPP2024_Fertility_by_Age5.csv.gz",
+    "bytes": 82864610,
+    "retrieved": "2026-10-05"
+  },
+  "wpp_indicators": {
+    "url": "https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_Demographic_Indicators_Medium.csv.gz",
+    "file": "data/raw/WPP2024_Demographic_Indicators_Medium.csv.gz",
+    "bytes": 16557272,
+    "retrieved": "2026-10-05"
+  }
+}

@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="524.16pt" height="410.4pt" viewBox="0 0 524.16 410.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-05T14:38:23.273789</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 410.4 
+L 524.16 410.4 
+L 524.16 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 78.624 350.64 
+L 435.0528 350.64 
+L 435.0528 82.08 
+L 78.624 82.08 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 109.617809 350.64 
+L 109.617809 82.08 
+" clip-path="url(#pe4aa545d72)" style="fill: none; stroke: #e4e4e4; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="mf8e8e2dc3a" d="M 0 0 
+L 0 3 
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf8e8e2dc3a" x="109.617809" y="350.64" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: middle; fill: #6b6b6b" x="109.617809" y="362.941758" transform="rotate(-0 109.617809 362.941758)">-2</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 187.10233 350.64 
+L 187.10233 82.08 
+" clip-path="url(#pe4aa545d72)" style="fill: none; stroke: #e4e4e4; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mf8e8e2dc3a" x="187.10233" y="350.64" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: middle; fill: #6b6b6b" x="187.10233" y="362.941758" transform="rotate(-0 187.10233 362.941758)">0</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 264.586852 350.64 
+L 264.586852 82.08 
+" clip-path="url(#pe4aa545d72)" style="fill: none; stroke: #e4e4e4; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mf8e8e2dc3a" x="264.586852" y="350.64" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: middle; fill: #6b6b6b" x="264.586852" y="362.941758" transform="rotate(-0 264.586852 362.941758)">+2</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 342.071374 350.64 
+L 342.071374 82.08 
+" clip-path="url(#pe4aa545d72)" style="fill: none; stroke: #e4e4e4; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mf8e8e2dc3a" x="342.071374" y="350.64" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: middle; fill: #6b6b6b" x="342.071374" y="362.941758" transform="rotate(-0 342.071374 362.941758)">+4</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 419.555896 350.64 
+L 419.555896 82.08 
+" clip-path="url(#pe4aa545d72)" style="fill: none; stroke: #e4e4e4; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mf8e8e2dc3a" x="419.555896" y="350.64" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9px; font-family: 'Franklin Gothic Book'; text-anchor: middle; fill: #6b6b6b" x="419.555896" y="362.941758" transform="rotate(-0 419.555896 362.941758)">+6</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11"/>
+     <g id="text_6">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="116.052043" transform="rotate(-0 75.624 116.052043)">South Korea</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12"/>
+     <g id="text_7">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="136.552807" transform="rotate(-0 75.624 136.552807)">Spain</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="157.05357" transform="rotate(-0 75.624 157.05357)">Italy</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="177.554334" transform="rotate(-0 75.624 177.554334)">China</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="198.055097" transform="rotate(-0 75.624 198.055097)">Japan</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_16"/>
+     <g id="text_11">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="218.55586" transform="rotate(-0 75.624 218.55586)">Germany</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_17"/>
+     <g id="text_12">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="239.056624" transform="rotate(-0 75.624 239.056624)">Brazil</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_18"/>
+     <g id="text_13">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="259.557387" transform="rotate(-0 75.624 259.557387)">France</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_19"/>
+     <g id="text_14">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="280.05815" transform="rotate(-0 75.624 280.05815)">United States</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_20"/>
+     <g id="text_15">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="300.558914" transform="rotate(-0 75.624 300.558914)">Britain</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_21"/>
+     <g id="text_16">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="321.059677" transform="rotate(-0 75.624 321.059677)">India</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_22"/>
+     <g id="text_17">
+      <text style="font-size: 9.2px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #1a1a1a" x="75.624" y="341.56044" transform="rotate(-0 75.624 341.56044)">Nigeria</text>
+     </g>
+    </g>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m07ed33270d" d="M 0 2.738613 
+C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
+C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
+C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
+C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
+C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
+C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
+C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
+C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+z
+" style="stroke: #c7cbd1"/>
+    </defs>
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="86.372452" y="92.330382" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="mcad96ec1f0" d="M 0 2.738613 
+C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
+C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
+C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
+C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
+C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
+C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
+C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
+C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+z
+" style="stroke: #21867a; stroke-width: 1.3"/>
+    </defs>
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="342.071374" y="92.330382" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="line2d_23">
+    <path d="M 187.10233 350.64 
+L 187.10233 82.08 
+" clip-path="url(#pe4aa545d72)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 242.135493 112.831145 
+Q 221.917684 112.831145 203.600534 112.831145 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 207.600534 114.831145 
+L 203.600534 112.831145 
+L 207.600534 110.831145 
+z
+" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="245.133767" y="112.831145" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="115.076262" transform="rotate(-0 445.745664 115.076262)">+1.5</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="115.076262" transform="rotate(-0 452.87424 115.076262)">→</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #1a1a1a" x="495.645696" y="115.076262" transform="rotate(-0 495.645696 115.076262)">+0.4</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 180.316028 133.331908 
+Q 164.307435 133.331908 150.199499 133.331908 
+" style="fill: none; stroke: #c0392b; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 154.199499 135.331908 
+L 150.199499 133.331908 
+L 154.199499 131.331908 
+z
+" style="fill: #c0392b; stroke: #c0392b; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="183.312163" y="133.331908" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="135.577026" transform="rotate(-0 445.745664 135.577026)">-0.1</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="135.577026" transform="rotate(-0 452.87424 135.577026)">→</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #c0392b" x="495.645696" y="135.577026" transform="rotate(-0 495.645696 135.577026)">-1.0</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 192.302862 153.832672 
+Q 179.045301 153.832672 167.688397 153.832672 
+" style="fill: none; stroke: #c0392b; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 171.688397 155.832672 
+L 167.688397 153.832672 
+L 171.688397 151.832672 
+z
+" style="fill: #c0392b; stroke: #c0392b; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="195.304234" y="153.832672" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="156.077789" transform="rotate(-0 445.745664 156.077789)">+0.2</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="156.077789" transform="rotate(-0 452.87424 156.077789)">→</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #c0392b" x="495.645696" y="156.077789" transform="rotate(-0 495.645696 156.077789)">-0.6</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 407.509162 174.333435 
+Q 396.296019 174.333435 386.983535 174.333435 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 390.983535 176.333435 
+L 386.983535 174.333435 
+L 390.983535 172.333435 
+z
+" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="410.510714" y="174.333435" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="176.578552" transform="rotate(-0 445.745664 176.578552)">+5.8</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="176.578552" transform="rotate(-0 452.87424 176.578552)">→</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #1a1a1a" x="495.645696" y="176.578552" transform="rotate(-0 495.645696 176.578552)">+5.1</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 180.276855 194.834198 
+Q 171.205326 194.834198 164.034455 194.834198 
+" style="fill: none; stroke: #c0392b; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 168.034455 196.834198 
+L 164.034455 194.834198 
+L 168.034455 192.834198 
+z
+" style="fill: #c0392b; stroke: #c0392b; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="183.278758" y="194.834198" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="197.079316" transform="rotate(-0 445.745664 197.079316)">-0.1</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="197.079316" transform="rotate(-0 452.87424 197.079316)">→</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #c0392b" x="495.645696" y="197.079316" transform="rotate(-0 495.645696 197.079316)">-0.6</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 199.478749 215.334962 
+Q 193.390789 215.334962 189.203488 215.334962 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 193.203488 217.334962 
+L 189.203488 215.334962 
+L 193.203488 213.334962 
+z
+" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="202.475499" y="215.334962" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="217.580079" transform="rotate(-0 445.745664 217.580079)">+0.4</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="217.580079" transform="rotate(-0 452.87424 217.580079)">→</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #1a1a1a" x="495.645696" y="217.580079" transform="rotate(-0 495.645696 217.580079)">0.0</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 182.430646 235.835725 
+Q 176.541907 235.835725 172.553827 235.835725 
+" style="fill: none; stroke: #c0392b; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 176.553827 237.835725 
+L 172.553827 235.835725 
+L 176.553827 233.835725 
+z
+" style="fill: #c0392b; stroke: #c0392b; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="185.428221" y="235.835725" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="238.080842" transform="rotate(-0 445.745664 238.080842)">0.0</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="238.080842" transform="rotate(-0 452.87424 238.080842)">→</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #c0392b" x="495.645696" y="238.080842" transform="rotate(-0 495.645696 238.080842)">-0.4</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 196.940829 256.336489 
+Q 192.715614 256.336489 190.391056 256.336489 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 194.391056 258.336489 
+L 190.391056 256.336489 
+L 194.391056 254.336489 
+z
+" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="199.940271" y="256.336489" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="258.581606" transform="rotate(-0 445.745664 258.581606)">+0.3</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="258.581606" transform="rotate(-0 452.87424 258.581606)">→</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #1a1a1a" x="495.645696" y="258.581606" transform="rotate(-0 495.645696 258.581606)">0.0</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 239.949091 276.837252 
+Q 237.088415 276.837252 236.128397 276.837252 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 240.128397 278.837252 
+L 236.128397 276.837252 
+L 240.128397 274.837252 
+z
+" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_11">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="242.952482" y="276.837252" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="279.082369" transform="rotate(-0 445.745664 279.082369)">+1.4</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="279.082369" transform="rotate(-0 452.87424 279.082369)">→</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #1a1a1a" x="495.645696" y="279.082369" transform="rotate(-0 495.645696 279.082369)">+1.2</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 203.728012 297.338015 
+Q 201.380517 297.338015 200.93368 297.338015 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 204.93368 299.338015 
+L 200.93368 297.338015 
+L 204.93368 295.338015 
+z
+" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_12">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="206.731451" y="297.338015" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="299.583132" transform="rotate(-0 445.745664 299.583132)">+0.5</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="299.583132" transform="rotate(-0 452.87424 299.583132)">→</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #1a1a1a" x="495.645696" y="299.583132" transform="rotate(-0 495.645696 299.583132)">+0.3</text>
+   </g>
+   <g id="PathCollection_13">
+    <defs>
+     <path id="mee623da708" d="M 0 2.738613 
+C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
+C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
+C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
+C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
+C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
+C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
+C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
+C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+z
+" style="stroke: #1a1a1a"/>
+    </defs>
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mee623da708" x="308.582666" y="317.838779" style="fill: #1a1a1a; stroke: #1a1a1a"/>
+    </g>
+   </g>
+   <g id="PathCollection_14">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="310.641586" y="317.838779" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="320.083896" transform="rotate(-0 445.745664 320.083896)">+3.2</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="320.083896" transform="rotate(-0 452.87424 320.083896)">→</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #1a1a1a" x="495.645696" y="320.083896" transform="rotate(-0 495.645696 320.083896)">+3.1</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 114.201126 338.339542 
+Q 123.165313 338.339542 130.228842 338.339542 
+" style="fill: none; stroke: #c0392b; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 126.228842 336.339542 
+L 130.228842 338.339542 
+L 126.228842 340.339542 
+z
+" style="fill: #c0392b; stroke: #c0392b; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_15">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#m07ed33270d" x="111.199011" y="338.339542" style="fill: #c7cbd1; stroke: #c7cbd1"/>
+    </g>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: end; fill: #6b6b6b" x="445.745664" y="340.584659" transform="rotate(-0 445.745664 340.584659)">-2.0</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="452.87424" y="340.584659" transform="rotate(-0 452.87424 340.584659)">→</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 8.8px; font-family: 'Franklin Gothic Demi'; text-anchor: end; fill: #c0392b" x="495.645696" y="340.584659" transform="rotate(-0 495.645696 340.584659)">-1.4</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 8px; font-family: 'Franklin Gothic Book'; text-anchor: middle; fill: #6b6b6b" x="470.69568" y="94.371397" transform="rotate(-0 470.69568 94.371397)">2014-24 → 2025-50</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 8.3px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="92.183791" y="94.447935" transform="rotate(-0 92.183791 94.447935)">GDP per worker, 2014-24</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 202.662607 92.330382 
+Q 212.285299 92.330382 220.230941 92.330382 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 216.630941 90.530382 
+L 220.230941 92.330382 
+L 216.630941 94.130382 
+z
+" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 8.3px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="227.781704" y="94.447935" transform="rotate(-0 227.781704 94.447935)">GDP per person, 2025-50</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 8.3px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #21867a" x="347.882713" y="94.447935" transform="rotate(-0 347.882713 94.447935)">if people work to 70</text>
+   </g>
+   <g id="PathCollection_16">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="226.082206" y="112.831145" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="PathCollection_17">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="170.368148" y="133.331908" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="PathCollection_18">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="185.985865" y="153.832672" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="PathCollection_19">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="409.355167" y="174.333435" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="PathCollection_20">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="182.515424" y="194.834198" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="PathCollection_21">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="204.079009" y="215.334962" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="PathCollection_22">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="190.136989" y="235.835725" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="PathCollection_23">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="205.980868" y="256.336489" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="PathCollection_24">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="251.071162" y="276.837252" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="PathCollection_25">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="216.397355" y="297.338015" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="PathCollection_26">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="326.198841" y="317.838779" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+   <g id="PathCollection_27">
+    <g clip-path="url(#pe4aa545d72)">
+     <use xlink:href="#mcad96ec1f0" x="146.835304" y="338.339542" style="fill: #ffffff; stroke: #21867a; stroke-width: 1.3"/>
+    </g>
+   </g>
+  </g>
+  <g id="line2d_24">
+   <path d="M 18.3456 9.36 
+L 505.8144 9.36 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 1.1; stroke-linecap: round"/>
+  </g>
+  <g id="text_58">
+   <text style="font-size: 15px; font-family: 'Franklin Gothic Demi'; text-anchor: start; fill: #1a1a1a" x="18.3456" y="29.22293" transform="rotate(-0 18.3456 29.22293)">Aging will swallow most of the past decade's productivity growth</text>
+  </g>
+  <g id="text_59">
+   <text style="font-size: 10.3px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #4d4d4d" x="18.3456" y="50.412012" transform="rotate(-0 18.3456 50.412012)">Growth in GDP per worker in 2014-24, and what it would mean for GDP per person in 2025-50 as the</text>
+  </g>
+  <g id="text_60">
+   <text style="font-size: 10.3px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #4d4d4d" x="18.3456" y="64.812012" transform="rotate(-0 18.3456 64.812012)">working-age share shrinks, % a year</text>
+  </g>
+  <g id="text_61">
+   <text style="font-size: 7.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="18.3456" y="401.718457" transform="rotate(-0 18.3456 401.718457)">Note: Holds the employment rate of 15-64-year-olds constant. 'Work to 70' counts ages 20-69 as working age in 2050 (20-64 in 2025).</text>
+  </g>
+  <g id="text_62">
+   <text style="font-size: 7.8px; font-family: 'Franklin Gothic Book'; text-anchor: start; fill: #6b6b6b" x="18.3456" y="390.558457" transform="rotate(-0 18.3456 390.558457)">Source: World Bank (GDP per person employed, constant 2021 PPP $); UN World Population Prospects 2024; author's calculation</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe4aa545d72">
+   <rect x="78.624" y="82.08" width="356.4288" height="268.56"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,48 @@
+sector,group,soc_codes,note
+Software Development,office and tech,15-1251;15-1252;15-1253;15-1254;15-1255,"programmers, software developers, QA analysts and testers, web developers, web and interface designers"
+Data & Analytics,office and tech,15-2041;15-2051;15-1242;15-1243,"statisticians, data scientists, database administrators and architects"
+IT Systems & Solutions,office and tech,15-1211;15-1212;15-1221;15-1241,"systems analysts, information security analysts, computer research scientists, network architects"
+"IT Infrastructure, Operations & Support",office and tech,15-1231;15-1232;15-1244,"network support, user support, network and systems administrators"
+Accounting,office and tech,13-2011;43-3031;43-3051,"accountants and auditors, bookkeeping clerks, payroll clerks"
+Banking & Finance,office and tech,13-2051;13-2052;13-2072;43-3071,"financial analysts, personal financial advisors, loan officers, tellers"
+Insurance,office and tech,13-2053;13-1031;41-3021;43-9041,"underwriters, claims adjusters, insurance sales agents, claims clerks"
+Marketing,office and tech,11-2021;13-1161,"marketing managers, market research analysts and marketing specialists"
+Media & Communications,office and tech,27-3023;27-3031;27-3041;27-3042;27-3043,"reporters, public relations specialists, editors, technical writers, writers and authors"
+Administrative Assistance,office and tech,43-6011;43-6014;43-9061;43-4171,"executive secretaries, secretaries and administrative assistants, office clerks, receptionists"
+Customer Service,office and tech,43-4051,customer service representatives
+Human Resources,office and tech,11-3121;13-1071;43-4161,"HR managers, HR specialists, HR assistants"
+Legal,office and tech,23-1011;23-2011,"lawyers, paralegals"
+Project Management,office and tech,13-1082,project management specialists
+Management,office and tech,11-1021,general and operations managers
+Sales,office and tech,41-3091;41-4012,"sales representatives of services, wholesale and manufacturing sales representatives"
+Logistic Support,office and tech,13-1081;43-5071,"logisticians, shipping and receiving clerks"
+Medical Information,office and tech,29-2072;43-6013,"medical records specialists, medical secretaries"
+Scientific Research & Development,office and tech,19-1029;19-1042;19-2031,"biological scientists, medical scientists, chemists"
+Social Science,office and tech,19-3011;19-3033,"economists, clinical and counseling psychologists"
+Architecture,office and tech,17-1011,architects
+Civil Engineering,office and tech,17-2051,civil engineers
+Electrical Engineering,office and tech,17-2071;17-2072,electrical and electronics engineers
+Industrial Engineering,office and tech,17-2112,industrial engineers
+Mechanical Engineering,office and tech,17-2141,mechanical engineers
+Nursing,health and care,29-1141;29-2061;31-1131,"registered nurses, licensed practical nurses, nursing assistants"
+Personal Care & Home Health,health and care,31-1121;31-1122,"home health aides, personal care aides"
+Childcare,health and care,39-9011,childcare workers
+Therapy,health and care,29-1122;29-1123;29-1127;31-2021,"occupational therapists, physical therapists, speech-language pathologists, physical therapist assistants"
+Physicians & Surgeons,health and care,29-1215;29-1216;29-1218;29-1221;29-1242,"family medicine, internal medicine, obstetricians, pediatricians, orthopedic surgeons"
+Pharmacy,health and care,29-1051;29-2052,"pharmacists, pharmacy technicians"
+Dental,health and care,29-1021;29-1292;31-9091,"dentists, dental hygienists, dental assistants"
+Medical Technician,health and care,29-2011;29-2012;29-2034,"clinical laboratory technologists and technicians, radiologic technologists"
+Community & Social Service,health and care,21-1021;21-1022;21-1023,"child, family and school social workers; healthcare social workers; mental health and substance abuse social workers"
+Education & Instruction,people-facing,25-2021;25-2031;25-9042,"elementary and secondary school teachers, teaching assistants"
+Hospitality & Tourism,people-facing,43-4081;35-9031,"hotel desk clerks, hosts and hostesses"
+Arts & Entertainment,people-facing,27-1024;27-2012,"graphic designers, producers and directors"
+Retail,people-facing,41-2011;41-2031,"cashiers, retail salespersons"
+Food Preparation & Service,hands-on,35-2014;35-3023;35-3031,"restaurant cooks, fast food and counter workers, waiters and waitresses"
+Construction,hands-on,47-2031;47-2061;47-2111,"carpenters, construction laborers, electricians"
+Driving,hands-on,53-3032;53-3033,heavy and light truck drivers
+Loading & Stocking,hands-on,53-7062;53-7065,"laborers and freight movers, stockers and order fillers"
+Cleaning & Sanitation,hands-on,37-2011;37-2012,"janitors, maids and housekeepers"
+Installation & Maintenance,hands-on,49-9021;49-9071,"HVAC mechanics, general maintenance and repair workers"
+Security & Public Safety,hands-on,33-3051;33-9032,"police officers, security guards"
+Production & Manufacturing,hands-on,51-2092;51-4041;51-9061,"team assemblers, machinists, inspectors and testers"
+Aviation,hands-on,49-3011;53-2011,"aircraft mechanics, airline pilots"
